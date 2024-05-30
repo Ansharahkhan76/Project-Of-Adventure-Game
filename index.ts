@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // importing Packages
 import inquirer from 'inquirer';
 import chalk from 'chalk';
